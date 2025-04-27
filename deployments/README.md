@@ -1,4 +1,4 @@
-# Ruby on Rails App Deployment Demo
+# Ruby on Rails App Deployment Demo  JPT
 
 This project builds a [Ruby on Rails](http://rubyonrails.org/)-based app inside a VM, using [Passenger](https://www.phusionpassenger.com/) and [Nginx](http://nginx.org/) to run the app. It is meant as a demonstration of web application deployments (in this case, a Rails-based app) using Ansible.
 
